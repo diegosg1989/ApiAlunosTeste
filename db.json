@@ -1,0 +1,64 @@
+{
+  "alunos": [
+    {
+      "nome": "aluno 1",
+      "idade": 7,
+      "serie": "1 serie"
+    },
+    {
+      "nome": "aluno 2",
+      "idade": 8,
+      "serie": "2 serie"
+    },
+    {
+      "nome": "aluno 3",
+      "idade": 9,
+      "serie": "3 serie"
+    },
+    {
+      "nome": "aluno 4",
+      "idade": 10,
+      "serie": "4 serie"
+    },
+    {
+      "nome": "aluno 5",
+      "idade": 11,
+      "serie": "5 ano"
+    },
+    {
+      "nome": "aluno 6",
+      "idade": 12,
+      "serie": "6 serie"
+    },
+    {
+      "nome": "aluno 7",
+      "idade": 13,
+      "serie": "7 serie"
+    },
+    {
+      "nome": "aluno 8",
+      "idade": 14,
+      "serie": "8 serie"
+    },
+    {
+      "nome": "aluno 9",
+      "idade": 15,
+      "serie": "9 serie"
+    },
+    {
+      "nome": "aluno 10",
+      "idade": 16,
+      "serie": "1 ano"
+    },
+    {
+      "nome": "aluno 11",
+      "idade": 17,
+      "serie": "2 ano"
+    },
+    {
+      "nome": "aluno 12",
+      "idade": 18,
+      "serie": "3 ano"
+    }
+  ]
+}
